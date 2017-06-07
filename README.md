@@ -4,7 +4,7 @@ required fields. You may use any additional libraries that you wish, please incl
 do.
 
 ### CSV Requirements:
-- Contains only properties listed this year (2016) [DateListed]
+- Contains only properties listed from 2016 [DateListed]
 - Contains only properties that contain `and' in the Description field
 - CSV ordered by DateListed
 - Required fields:
