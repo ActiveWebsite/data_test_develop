@@ -5,7 +5,7 @@ do.
 
 ### CSV Requirements:
 - Contains only properties listed from 2016 [DateListed]
-- Contains only properties that contain `and' in the Description field
+- Contains only properties that contain the word "and" in the Description field
 - CSV ordered by DateListed
 - Required fields:
 	- MlsId
@@ -30,8 +30,7 @@ do.
 
 ### Submission Requirements
 - Work should be tracked with Git
-- Submit final product by pushing your branch to this repo
-	- Branch being submitted cannot be called `master`
+- Submit final product by submitting a pull request
 
 # Purpose
 A lot of the work in our department is parsing and manipulating data from a variety of sources. The given example
